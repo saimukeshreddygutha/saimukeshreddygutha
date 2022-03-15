@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saimukeshreddygutha
-- 👀 I’m interested in Competitive Programming, Software development, and Data Science
+- 👀 I’m interested in Competitive Programming, Software development
 - 🌱 I’m currently learning Web Development
 
 
