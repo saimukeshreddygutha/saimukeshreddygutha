@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saimukeshreddygutha
 - 👀 I’m interested in Competitive Programming, Software development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Backend Development
 
 
 <!---
