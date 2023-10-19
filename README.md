@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saimukeshreddygutha
 - 👀 I’m interested in Competitive Programming, Software development
-- 🌱 I’m currently a Backend Development Intern
+- 🌱 I’m currently a Software Engineer - Backend
 
 
 <!---
