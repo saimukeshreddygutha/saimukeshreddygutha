@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saimukeshreddygutha
 - 👀 I’m interested in Competitive Programming, Software development
-- 🌱 I’m currently a Software Engineer - Backend
+- 🌱 I’m a Graduate Computer Science Student at the University of South Florida. Previously Software Engineer at Skillsoft.
 
 
 <!---
